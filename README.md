@@ -11,11 +11,11 @@ O objetivo é criar uma página HTML contendo uma lista dos meus sites favoritos
         - Imagem representando o site
         - Link clicável abrindo em nova aba
 - Organizar o conteúdo usando:
-    <section>
+    <!--<section>
     <ul> e </ul>
     <h1> e <h2>
     <a>
-    <img>
+    <img>-->
 - Subir o pojeto completo no GitHub
 
 🧩 Tecnologias utilizadas
