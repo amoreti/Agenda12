@@ -11,13 +11,16 @@ O objetivo é criar uma página HTML contendo uma lista dos meus sites favoritos
         - Imagem representando o site
         - Link clicável abrindo em nova aba
 - Organizar o conteúdo usando:
-    <!--<section>
-    <ul> e </ul>
-    <h1> e <h2>
-    <a>
-    <img>-->
+    - section
+    - ul
+    - h1 e h2
+    - a
+    - img
 - Subir o pojeto completo no GitHub
 
 🧩 Tecnologias utilizadas
 - HTML5
 - Estrutura semântica com imagens locais
+
+📌 Observação
+Embora a atividade tenha pedido para usar atag h1 no nome de cada site, optei por colocar o título do corpo da página como h1 e os sites como h2.
